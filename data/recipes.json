@@ -20,66 +20,6 @@ https://i.ibb.co/p0Hcq8X/dal.jpg
         "rating": 4.5
     },
     {
-        "recipe_name": "Chana Masala",
-        "ingredients": [
-            "chickpeas",
-            "tomato",
-            "onion",
-            "garlic",
-            "ginger"
-        ],
-        "cooking_method": "1. Cook onions, garlic, and ginger in oil until softened. \n2. Add spices and cook until fragrant. \n3. Add chopped tomatoes and cook until they break down. \n4. Add cooked chickpeas and simmer until the sauce thickens. \n5. Serve with rice or naan bread.",
-        "rating": 4.2
-    },
-    {
-        "recipe_name": "Saag Paneer",
-        "ingredients": [
-            "spinach",
-            "paneer",
-            "onion",
-            "garlic",
-            "ginger"
-        ],
-        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. \n2. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. \n4. Add pureed spinach and cook until it thickens. \n5. Add cubed paneer and simmer until heated through.",
-        "rating": 4.7
-    },
-    {
-        "recipe_name": "Palak Paneer",
-        "ingredients": [
-            "spinach",
-            "paneer",
-            "tomato",
-            "cream",
-            "garlic"
-        ],
-        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. \n2. Puree spinach in a blender with garlic. \n3. Cook onions until soft, then add spices. \n4. Add pureed spinach and chopped tomatoes and cook until it thickens. \n5. Add cubed paneer and simmer until heated through. \n6. Finish with a dollop of cream.",
-        "rating": 4.4
-    },
-    {
-        "recipe_name": "Aloo Gobi",
-        "ingredients": [
-            "potatoes",
-            "cauliflower",
-            "onion",
-            "tomato",
-            "cumin"
-        ],
-        "cooking_method": "1. Cook onions until soft, then add spices. \n2. Add chopped potatoes and cauliflower and cook until slightly softened. \n3. Add chopped tomatoes and cook until they break down. \n4. Add water and simmer until the vegetables are cooked through. \n5. Garnish with cilantro and serve with rice or naan bread.",
-        "rating": 4.1
-    },
-    {
-        "recipe_name": "Tandoori Chicken",
-        "ingredients": [
-            "chicken",
-            "yogurt",
-            "lemon",
-            "spices",
-            "garlic"
-        ],
-        "cooking_method": "1. Marinate chicken in a mixture of yogurt, lemon juice, garlic, and spices for at least 2 hours, or overnight. \n2. Cook the chicken in a tandoor or oven until slightly charred. \n3. Serve with sliced onions and lemon wedges.",
-        "rating": 4.3
-    },
-    {
         "recipe_name": "Pani Puri",
         "ingredients": [
             "semolina flour",
