@@ -1,0 +1,329 @@
+[
+  {
+    "_id": "cooking_master_01",
+    "likes": "498",
+    "total_view": 488,
+    "chefs_info": {
+      "name": "Chef Atul Kochhar",
+      "experience": "7",
+      "recipes": "4",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Atul-Kochhar.jpg"
+    },
+    "details": "Chef Atul Kochhar is an Indian-bord, UK-based celebrity chef who owns several restaurants and has made TV appearances. Kochhar is one of the first two Indian chefs to have received a Michelin star. Not just this, he is only one of the few Indian chefs to have won 2 Michelin stars.",
+
+    "recipe_info": [
+      {
+        "recipe_name": "Butter Chicken",
+        "img": "https://i.ibb.co/yn6T9cF/chicken.jpg",
+        "ingredients": [
+          "chicken",
+          "butter",
+          "onion",
+          "tomato",
+          "cream"
+        ],
+        "cooking_method": "Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "ingredients": [
+          "chickpeas",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "_id": "cooking_master_02",
+    "likes": "368",
+    "total_view": 438,
+    "chefs_info": {
+      "name": " Chef Vicky Ratnani",
+      "experience": "4",
+      "recipes": "3",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Vicky-Ratnani.jpg"
+    },
+    "details": "Vicky Ratnani is one of the biggest chefs in India and was also won the Chef of the Year award in 2015 at the Indian Restaurant Awards. Ratnani has made appearances in a number of shows both in India and overseas which includes A Taste Down Under (shot in Australia), Gourmet Central, Health Mange More, Pressure Cooker, Sanjeev Kapoor ke Kitchen Khiladi, Vicky Goes Desi, Vicky Goes Foreign, Vicky Goes Veg, and Vickypedia.",
+
+    "recipe_info": [
+      {
+        "recipe_name": "Chicken Tikka Masala",
+        "img": "https://i.ibb.co/pbcpFxn/chicken-tikka.jpg",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "tomato",
+          "cream",
+          "spices"
+      ],
+        "cooking_method": " Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "ingredients": [
+          "chickpeas",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "_id": "cooking_master_03",
+    "likes": "298",
+    "total_view": 278,
+    "chefs_info": {
+      "name": "Chef Shipra Khanna",
+      "experience": "2",
+      "recipes": "8",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Shipra-Khanna.jpg"
+    },
+    "details": "Chef Shipra Khanna is an Indian celebrity chef, restaurateur, author and a Television personality.  Chef Khanna rose to fame when, in 2012, she won the second season of the Indian TV show MasterChef which aired on Star Plus After she won MasterChef, she has her own TV show as a celebrity chef on Food Food and did not stop there, she went on to appear on many more TV cooking shows.",
+
+    "recipe_info": [
+      {
+        "recipe_name": "Biryani",
+        "img": "https://i.ibb.co/R6HDFTT/beriyani.jpg",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "onion",
+          "spices"
+      ],
+        "cooking_method": "Cook basmati rice until half done, then drain. Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook onions until soft, then add spices. Add the chicken and marinade, and cook until the chicken is cooked through.",
+        "rating": 3.7
+      },
+      {
+        "recipe_name": "Masoor Dal",
+        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "ingredients": [
+          "red lentils",
+          "onion",
+          "tomato",
+          "garlic",
+          "ginger"
+      ],
+        "cooking_method": "Cook onions until soft, then add garlic and ginger. Add chopped tomatoes and cook until they break down. Add red lentils and enough water to cover, and simmer until the lentils are fully cooked. Season with salt andhours, or overnight.",
+        "rating": 4.1
+      },
+      {
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "_id": "cooking_master_04",
+    "likes": "928",
+    "total_view": 188,
+    "chefs_info": {
+      "name": "Chef Ranveer Brar",
+      "experience": "3",
+      "recipes": "3",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Ranveer-Brar.jpg"
+    },
+    "details": "Chef Ranveer Brar is a household name and one of the top chefs in India. Chef Brar was an official culinary expert at the age of 25 to have ever worked with a 5-star in India. Currently Chef Brar is the senior official culinary expert at the famous Novotel Mumbai at Juhu beach.",
+
+    "recipe_info": [
+      {
+        "recipe_name": "Butter Chicken",
+        "img": "https://i.ibb.co/yn6T9cF/chicken.jpg",
+        "ingredients": [
+          "chicken",
+          "butter",
+          "onion",
+          "tomato",
+          "cream"
+        ],
+        "cooking_method": "Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree.",
+        "rating": 3.5
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "ingredients": [
+          "chickpeas",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "_id": "cooking_master_05",
+    "likes": "238",
+    "total_view": 158,
+    "chefs_info": {
+      "name": "Chef Kunal Kapur",
+      "experience": "7",
+      "recipes": "4",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Kunal-Kapur.jpg"
+    },
+    "details": "Kunal Kapur is an Indian celebrity chef, restaurateur and a TV personality who began his career around 2000 with the Taj Group of Hotels. In 2008, Chef Kunal was awarded with the “The Best Indian Chef” by India Today in New Delhi, he was also titled as “The Next Big Guy in Kebabs and Curries in India”.",
+
+    "recipe_info": [
+      {
+        "recipe_name": "Pani Puri",
+        "img": "https://i.ibb.co/s1wHDYM/pani-puri.jpg",
+        "ingredients": [
+          "semolina flour",
+          "potato",
+          "chickpeas",
+          "tamarind chutney",
+          "spices"
+      ],
+        "cooking_method": "Make a dough from semolina flour and water. Roll out the dough and cut into small circles. Fry the circles until puffed and golden brown. Make a filling of mashed potatoes and cooked chickpeas, seasoned with spices. Make a tangy tamarind chutney.",
+        "rating": 3.5
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "ingredients": [
+          "chickpeas",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "_id": "cooking_master_01",
+    "likes": "498",
+    "total_view": 488,
+    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "chefs_info": {
+      "name": "Chef Atul Kochhar",
+      "experience": "7",
+      "recipes": "4",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Atul-Kochhar.jpg"
+    },
+    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.",
+
+    "recipe_info": [
+      {
+        "recipe_name": "Butter Chicken",
+        "img": "https://i.ibb.co/yn6T9cF/chicken.jpg",
+        "ingredients": [
+          "chicken",
+          "butter",
+          "onion",
+          "tomato",
+          "cream"
+        ],
+        "cooking_method": "Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chana Masala",
+        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "ingredients": [
+          "chickpeas",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onion",
+          "garlic",
+          "ginger"
+        ],
+        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+        "rating": 4.7
+      }
+    ]
+  }
+
+
+]
