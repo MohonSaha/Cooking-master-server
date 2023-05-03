@@ -1,24 +1,5 @@
 [
 
-    https://i.ibb.co/vv59B2T/porata.jpg
-https://i.ibb.co/9cXwXnF/sana-masala.jpg
-https://i.ibb.co/wwQLD32/panir.jpg
-https://i.ibb.co/p0Hcq8X/dal.jpg
-
-
-
-    {
-        "recipe_name": "Butter Chicken",
-        "ingredients": [
-            "chicken",
-            "butter",
-            "onion",
-            "tomato",
-            "cream"
-        ],
-        "cooking_method": "Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree. Add spices and the chicken to the sauce and simmer for 10 minutes. Finish with a dollop of cream and garnish with cilantro.",
-        "rating": 4.5
-    },
     {
         "recipe_name": "Pani Puri",
         "ingredients": [
@@ -126,14 +107,5 @@ https://i.ibb.co/p0Hcq8X/dal.jpg
         ],
         "cooking_method": "1. Cook basmati rice until half done, then drain. \n2. Marinate chicken in a mixture of yogurt and spices for at least an hour. \n3. Cook onions until soft, then add spices. \n4. Add the chicken and marinade, and cook until the chicken is cooked through. \n5. Layer the rice and chicken in a large pot, and cook over low heat until the rice is fully cooked. \n6. Garnish with fried onions and cilantro.",
         "rating": 4.7
-    },
-    {
-        "recipe_name": "Masoor Dal",
-        "ingredients": [
-            "red lentils",
-            "onion",
-            "tomato",
-            "garlic",
-            "ginger"
-        ],
-        "cooking_method": "1. Cook onions until soft, then add garlic and ginger. \n2. Add chopped tomatoes and cook until they break down. \n3. Add red lentils and enough water to cover, and simmer until the lentils are fully cooked. \n4. Season with salt and
+    }
+]
