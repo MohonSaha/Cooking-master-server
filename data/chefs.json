@@ -242,16 +242,15 @@
         "rating": 3.5
       },
       {
-        "recipe_name": "Chana Masala",
-        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+        "recipe_name": "Aloo Paratha",
+        "img": "https://i.ibb.co/MCRZLkG/parata.jpg",
         "ingredients": [
-          "chickpeas",
-          "tomato",
-          "onion",
-          "garlic",
-          "ginger"
-        ],
-        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
+          "potato", 
+          "flour", 
+          "spices", 
+          "ghee", 
+          "yogurt"],
+        "cooking_method": "Boil potatoes and mash them. Mix flour, spices, and water to make a dough. Roll out a portion of the dough and place a spoonful of the potato filling in the center. Fold the edges of the dough over the filling to enclose it.",
         "rating": 4.2
       },
       {
@@ -270,17 +269,16 @@
     ]
   },
   {
-    "_id": "cooking_master_01",
-    "likes": "498",
-    "total_view": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "_id": "cooking_master_06",
+    "likes": "898",
+    "total_view": 1088,
     "chefs_info": {
-      "name": "Chef Atul Kochhar",
-      "experience": "7",
-      "recipes": "4",
-      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Atul-Kochhar.jpg"
+      "name": "Chef Sanjeev Kapoor",
+      "experience": "5",
+      "recipes": "9",
+      "img": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Sanjeev-Kapoor.jpg"
     },
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.",
+    "details": "Chef Sanjeev Kapoor is a household name in the Indian culinary industry, many of the best chefs in India regard him as the reason who ignited the passion for food and cooking in them. Kapoor’s TV show called “Khana Khazana” is one of the best celebrity chef show in the world and ran for 17 years.",
 
     "recipe_info": [
       {
@@ -295,31 +293,29 @@
         ],
         "cooking_method": "Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree.",
         "rating": 4.5
-      },
-      {
-        "recipe_name": "Chana Masala",
-        "img": "https://i.ibb.co/9cXwXnF/sana-masala.jpg",
+      },{
+        "recipe_name": "Chicken Tikka Masala",
+        "img": "https://i.ibb.co/pbcpFxn/chicken-tikka.jpg",
         "ingredients": [
-          "chickpeas",
+          "chicken",
+          "yogurt",
           "tomato",
-          "onion",
-          "garlic",
-          "ginger"
-        ],
-        "cooking_method": "Cook onions, garlic, and ginger in oil until softened. Add spices and cook until fragrant. Add chopped tomatoes and cook until they break down. Add cooked chickpeas and simmer until the sauce thickens. Serve with rice or naan bread.",
-        "rating": 4.2
+          "cream",
+          "spices"
+      ],
+        "cooking_method": " Marinate chicken in a mixture of yogurt and spices for at least an hour. Cook the chicken in a tandoor or oven until slightly charred. Make a sauce by cooking onions, garlic, ginger, and tomatoes until soft, then puree. ",
+        "rating": 3.5
       },
       {
-        "recipe_name": "Saag Paneer",
-        "img": "https://i.ibb.co/wwQLD32/panir.jpg",
+        "recipe_name": "Aloo Gobi",
+        "img": "https://i.ibb.co/SyfdGXv/alloo.jpg",
         "ingredients": [
-          "spinach",
-          "paneer",
-          "onion",
-          "garlic",
-          "ginger"
-        ],
-        "cooking_method": "1. Blanch spinach in boiling water, then shock in ice water. Puree spinach in a blender with ginger and garlic. \n3. Cook onions until soft, then add spices. Add pureed spinach and cook until it thickens.",
+          "potato", 
+          "cauliflower", 
+          "onion", 
+          "tomato", 
+          "spices"],
+        "cooking_method": "Cook onions until soft, then add spices. Add chopped tomatoes and cook until they break down. Add diced potatoes and cauliflower and enough water to cover, and simmer until the vegetables are tender. ",
         "rating": 4.7
       }
     ]
